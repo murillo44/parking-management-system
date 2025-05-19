@@ -1,0 +1,51 @@
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\DAL\bin\Debug\net8.0\Entity.dll
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\DAL\bin\Debug\net8.0\Mapper.dll
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\DAL\bin\Debug\net8.0\Entity.pdb
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\DAL\bin\Debug\net8.0\Mapper.pdb
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\DAL\bin\Debug\net8.0\Entity.dll
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\DAL\bin\Debug\net8.0\Mapper.dll
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\DAL\bin\Debug\net8.0\Entity.pdb
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\DAL\bin\Debug\net8.0\Mapper.pdb
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\DAL\bin\Debug\net8.0\Entity.dll
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\DAL\bin\Debug\net8.0\Mapper.dll
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\DAL\bin\Debug\net8.0\Entity.pdb
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\DAL\bin\Debug\net8.0\Mapper.pdb
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\DAL\obj\Debug\net8.0\ref\DAL.dll

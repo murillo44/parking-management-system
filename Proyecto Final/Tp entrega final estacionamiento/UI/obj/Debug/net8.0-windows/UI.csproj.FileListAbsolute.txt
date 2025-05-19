@@ -1,0 +1,114 @@
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\UI\bin\Debug\net8.0-windows\UI.exe
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\UI\bin\Debug\net8.0-windows\UI.dll.config
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\UI\bin\Debug\net8.0-windows\UI.deps.json
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\UI\bin\Debug\net8.0-windows\UI.runtimeconfig.json
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\UI\bin\Debug\net8.0-windows\UI.dll
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\UI\bin\Debug\net8.0-windows\UI.pdb
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\UI\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\UI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\UI\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\UI\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\UI\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\UI\bin\Debug\net8.0-windows\BLL.dll
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\UI\bin\Debug\net8.0-windows\DAL.dll
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\UI\bin\Debug\net8.0-windows\Entity.dll
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\UI\bin\Debug\net8.0-windows\Mapper.dll
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\UI\bin\Debug\net8.0-windows\BLL.pdb
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\UI\bin\Debug\net8.0-windows\Entity.pdb
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\UI\bin\Debug\net8.0-windows\DAL.pdb
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\UI\bin\Debug\net8.0-windows\Mapper.pdb
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\UI\obj\Debug\net8.0-windows\UI.csproj.AssemblyReference.cache
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\UI\obj\Debug\net8.0-windows\UI.Form1.resources
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\UI\obj\Debug\net8.0-windows\UI.csproj.GenerateResource.cache
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\UI\obj\Debug\net8.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\UI\obj\Debug\net8.0-windows\UI.AssemblyInfoInputs.cache
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\UI\obj\Debug\net8.0-windows\UI.AssemblyInfo.cs
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\UI\obj\Debug\net8.0-windows\UI.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\UI\obj\Debug\net8.0-windows\UI.csproj.Up2Date
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\UI\obj\Debug\net8.0-windows\UI.dll
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\UI\obj\Debug\net8.0-windows\refint\UI.dll
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\UI\obj\Debug\net8.0-windows\UI.pdb
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\UI\obj\Debug\net8.0-windows\UI.genruntimeconfig.cache
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\UI\obj\Debug\net8.0-windows\ref\UI.dll
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\UI\obj\Debug\net8.0-windows\UI.csproj.AssemblyReference.cache
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\UI\obj\Debug\net8.0-windows\UI.Form1.resources
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\UI\obj\Debug\net8.0-windows\UI.csproj.GenerateResource.cache
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\UI\obj\Debug\net8.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\UI\obj\Debug\net8.0-windows\UI.AssemblyInfoInputs.cache
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\UI\obj\Debug\net8.0-windows\UI.AssemblyInfo.cs
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\UI\obj\Debug\net8.0-windows\UI.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\UI\obj\Debug\net8.0-windows\UI.dll
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\UI\obj\Debug\net8.0-windows\refint\UI.dll
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\UI\obj\Debug\net8.0-windows\UI.pdb
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\UI\bin\Debug\net8.0-windows\UI.exe
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\UI\bin\Debug\net8.0-windows\UI.dll.config
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\UI\bin\Debug\net8.0-windows\UI.deps.json
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\UI\bin\Debug\net8.0-windows\UI.runtimeconfig.json
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\UI\bin\Debug\net8.0-windows\UI.dll
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\UI\bin\Debug\net8.0-windows\UI.pdb
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\UI\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\UI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\UI\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\UI\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\UI\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\UI\bin\Debug\net8.0-windows\BLL.dll
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\UI\bin\Debug\net8.0-windows\DAL.dll
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\UI\bin\Debug\net8.0-windows\Entity.dll
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\UI\bin\Debug\net8.0-windows\Mapper.dll
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\UI\bin\Debug\net8.0-windows\BLL.pdb
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\UI\bin\Debug\net8.0-windows\Entity.pdb
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\UI\bin\Debug\net8.0-windows\DAL.pdb
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\UI\bin\Debug\net8.0-windows\Mapper.pdb
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\UI\obj\Debug\net8.0-windows\UI.csproj.Up2Date
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\UI\obj\Debug\net8.0-windows\UI.genruntimeconfig.cache
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\UI\obj\Debug\net8.0-windows\ref\UI.dll
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\UI\bin\Debug\net8.0-windows\UI.exe
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\UI\bin\Debug\net8.0-windows\UI.dll.config
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\UI\bin\Debug\net8.0-windows\UI.deps.json
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\UI\bin\Debug\net8.0-windows\UI.runtimeconfig.json
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\UI\bin\Debug\net8.0-windows\UI.dll
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\UI\bin\Debug\net8.0-windows\UI.pdb
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\UI\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\UI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\UI\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\UI\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\UI\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\UI\bin\Debug\net8.0-windows\BLL.dll
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\UI\bin\Debug\net8.0-windows\DAL.dll
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\UI\bin\Debug\net8.0-windows\Entity.dll
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\UI\bin\Debug\net8.0-windows\Mapper.dll
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\UI\bin\Debug\net8.0-windows\BLL.pdb
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\UI\bin\Debug\net8.0-windows\Entity.pdb
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\UI\bin\Debug\net8.0-windows\DAL.pdb
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\UI\bin\Debug\net8.0-windows\Mapper.pdb
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\UI\obj\Debug\net8.0-windows\UI.csproj.AssemblyReference.cache
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\UI\obj\Debug\net8.0-windows\UI.Form1.resources
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\UI\obj\Debug\net8.0-windows\UI.csproj.GenerateResource.cache
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\UI\obj\Debug\net8.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\UI\obj\Debug\net8.0-windows\UI.AssemblyInfoInputs.cache
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\UI\obj\Debug\net8.0-windows\UI.AssemblyInfo.cs
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\UI\obj\Debug\net8.0-windows\UI.csproj.CoreCompileInputs.cache
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\UI\obj\Debug\net8.0-windows\UI.csproj.Up2Date
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\UI\obj\Debug\net8.0-windows\UI.dll
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\UI\obj\Debug\net8.0-windows\refint\UI.dll
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\UI\obj\Debug\net8.0-windows\UI.pdb
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\UI\obj\Debug\net8.0-windows\UI.genruntimeconfig.cache
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\UI\obj\Debug\net8.0-windows\ref\UI.dll

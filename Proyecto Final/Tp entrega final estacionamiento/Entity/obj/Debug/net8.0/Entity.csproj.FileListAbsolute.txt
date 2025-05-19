@@ -1,0 +1,33 @@
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\Entity\bin\Debug\net8.0\Entity.deps.json
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\Entity\bin\Debug\net8.0\Entity.dll
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\Entity\bin\Debug\net8.0\Entity.pdb
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.cs
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\Entity\obj\Debug\net8.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\Entity\obj\Debug\net8.0\Entity.dll
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\Entity\obj\Debug\net8.0\refint\Entity.dll
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\Entity\obj\Debug\net8.0\Entity.pdb
+C:\Users\Rodrigo Raniti\Downloads\gestorestacionamiento\Entity\obj\Debug\net8.0\ref\Entity.dll
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\Entity\bin\Debug\net8.0\Entity.deps.json
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\Entity\bin\Debug\net8.0\Entity.dll
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\Entity\bin\Debug\net8.0\Entity.pdb
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.cs
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\Entity\obj\Debug\net8.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\Entity\obj\Debug\net8.0\Entity.dll
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\Entity\obj\Debug\net8.0\refint\Entity.dll
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\Entity\obj\Debug\net8.0\Entity.pdb
+C:\Users\Rodrigo Raniti\Desktop\Nueva carpeta (2)\Entity\obj\Debug\net8.0\ref\Entity.dll
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\Entity\bin\Debug\net8.0\Entity.deps.json
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\Entity\bin\Debug\net8.0\Entity.dll
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\Entity\bin\Debug\net8.0\Entity.pdb
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.cs
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\Entity\obj\Debug\net8.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\Entity\obj\Debug\net8.0\Entity.dll
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\Entity\obj\Debug\net8.0\refint\Entity.dll
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\Entity\obj\Debug\net8.0\Entity.pdb
+C:\Users\Gabo\Desktop\Tp entrega final estacionamiento\Entity\obj\Debug\net8.0\ref\Entity.dll

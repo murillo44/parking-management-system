@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabo\\Desktop\\Tp entrega final estacionamiento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C539F03-FB88-4BDE-A21B-21CEC60A4D00}|UI\\UI.csproj|c:\\users\\gabo\\desktop\\tp entrega final estacionamiento\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C539F03-FB88-4BDE-A21B-21CEC60A4D00}|UI\\UI.csproj|solutionrelative:ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8525AA-6140-412C-BAA8-B83AB6A70B3C}|BLL\\BLL.csproj|c:\\users\\gabo\\desktop\\tp entrega final estacionamiento\\bll\\estacionamientbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8525AA-6140-412C-BAA8-B83AB6A70B3C}|BLL\\BLL.csproj|solutionrelative:bll\\estacionamientbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60D6C6B-E5B1-47F1-A050-C6E8AF8C54D0}|Mapper\\Mapper.csproj|c:\\users\\gabo\\desktop\\tp entrega final estacionamiento\\mapper\\estacionamientomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60D6C6B-E5B1-47F1-A050-C6E8AF8C54D0}|Mapper\\Mapper.csproj|solutionrelative:mapper\\estacionamientomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DA40F8-B1AD-4385-A50C-CE13672C31F7}|DAL\\DAL.csproj|c:\\users\\gabo\\desktop\\tp entrega final estacionamiento\\dal\\usuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72DA40F8-B1AD-4385-A50C-CE13672C31F7}|DAL\\DAL.csproj|solutionrelative:dal\\usuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C539F03-FB88-4BDE-A21B-21CEC60A4D00}|UI\\UI.csproj|c:\\users\\gabo\\desktop\\tp entrega final estacionamiento\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C539F03-FB88-4BDE-A21B-21CEC60A4D00}|UI\\UI.csproj|solutionrelative:ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8525AA-6140-412C-BAA8-B83AB6A70B3C}|BLL\\BLL.csproj|c:\\users\\gabo\\desktop\\tp entrega final estacionamiento\\bll\\ticketbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8525AA-6140-412C-BAA8-B83AB6A70B3C}|BLL\\BLL.csproj|solutionrelative:bll\\ticketbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60D6C6B-E5B1-47F1-A050-C6E8AF8C54D0}|Mapper\\Mapper.csproj|c:\\users\\gabo\\desktop\\tp entrega final estacionamiento\\mapper\\usuariomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60D6C6B-E5B1-47F1-A050-C6E8AF8C54D0}|Mapper\\Mapper.csproj|solutionrelative:mapper\\usuariomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60D6C6B-E5B1-47F1-A050-C6E8AF8C54D0}|Mapper\\Mapper.csproj|c:\\users\\gabo\\desktop\\tp entrega final estacionamiento\\mapper\\ticketmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60D6C6B-E5B1-47F1-A050-C6E8AF8C54D0}|Mapper\\Mapper.csproj|solutionrelative:mapper\\ticketmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DA40F8-B1AD-4385-A50C-CE13672C31F7}|DAL\\DAL.csproj|c:\\users\\gabo\\desktop\\tp entrega final estacionamiento\\dal\\ticketdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72DA40F8-B1AD-4385-A50C-CE13672C31F7}|DAL\\DAL.csproj|solutionrelative:dal\\ticketdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E34713-13E5-4BE9-841E-367797898101}|Entity\\Entity.csproj|c:\\users\\gabo\\desktop\\tp entrega final estacionamiento\\entity\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E34713-13E5-4BE9-841E-367797898101}|Entity\\Entity.csproj|solutionrelative:entity\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8525AA-6140-412C-BAA8-B83AB6A70B3C}|BLL\\BLL.csproj|c:\\users\\gabo\\desktop\\tp entrega final estacionamiento\\bll\\usuariobusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8525AA-6140-412C-BAA8-B83AB6A70B3C}|BLL\\BLL.csproj|solutionrelative:bll\\usuariobusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E34713-13E5-4BE9-841E-367797898101}|Entity\\Entity.csproj|c:\\users\\gabo\\desktop\\tp entrega final estacionamiento\\entity\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E34713-13E5-4BE9-841E-367797898101}|Entity\\Entity.csproj|solutionrelative:entity\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DA40F8-B1AD-4385-A50C-CE13672C31F7}|DAL\\DAL.csproj|c:\\users\\gabo\\desktop\\tp entrega final estacionamiento\\dal\\estacionamientodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72DA40F8-B1AD-4385-A50C-CE13672C31F7}|DAL\\DAL.csproj|solutionrelative:dal\\estacionamientodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E34713-13E5-4BE9-841E-367797898101}|Entity\\Entity.csproj|c:\\users\\gabo\\desktop\\tp entrega final estacionamiento\\entity\\estacionamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E34713-13E5-4BE9-841E-367797898101}|Entity\\Entity.csproj|solutionrelative:entity\\estacionamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Gabo\\Desktop\\Tp entrega final estacionamiento\\UI\\Form1.cs",
+              "RelativeDocumentMoniker": "UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Gabo\\Desktop\\Tp entrega final estacionamiento\\UI\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "UI\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:20:35.644Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EstacionamientBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Gabo\\Desktop\\Tp entrega final estacionamiento\\BLL\\EstacionamientBusiness.cs",
+              "RelativeDocumentMoniker": "BLL\\EstacionamientBusiness.cs",
+              "ToolTip": "C:\\Users\\Gabo\\Desktop\\Tp entrega final estacionamiento\\BLL\\EstacionamientBusiness.cs",
+              "RelativeToolTip": "BLL\\EstacionamientBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:21:21.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TicketBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Gabo\\Desktop\\Tp entrega final estacionamiento\\BLL\\TicketBusiness.cs",
+              "RelativeDocumentMoniker": "BLL\\TicketBusiness.cs",
+              "ToolTip": "C:\\Users\\Gabo\\Desktop\\Tp entrega final estacionamiento\\BLL\\TicketBusiness.cs",
+              "RelativeToolTip": "BLL\\TicketBusiness.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAgwIIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:21:39.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Gabo\\Desktop\\Tp entrega final estacionamiento\\UI\\Form1.cs",
+              "RelativeDocumentMoniker": "UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Gabo\\Desktop\\Tp entrega final estacionamiento\\UI\\Form1.cs",
+              "RelativeToolTip": "UI\\Form1.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAD4v/MAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:22:19.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Gabo\\Desktop\\Tp entrega final estacionamiento\\DAL\\UsuarioDAO.cs",
+              "RelativeDocumentMoniker": "DAL\\UsuarioDAO.cs",
+              "ToolTip": "C:\\Users\\Gabo\\Desktop\\Tp entrega final estacionamiento\\DAL\\UsuarioDAO.cs",
+              "RelativeToolTip": "DAL\\UsuarioDAO.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwEgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:22:10.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Gabo\\Desktop\\Tp entrega final estacionamiento\\Entity\\Usuario.cs",
+              "RelativeDocumentMoniker": "Entity\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Gabo\\Desktop\\Tp entrega final estacionamiento\\Entity\\Usuario.cs",
+              "RelativeToolTip": "Entity\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:26:53.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EstacionamientoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Gabo\\Desktop\\Tp entrega final estacionamiento\\Mapper\\EstacionamientoMapper.cs",
+              "RelativeDocumentMoniker": "Mapper\\EstacionamientoMapper.cs",
+              "ToolTip": "C:\\Users\\Gabo\\Desktop\\Tp entrega final estacionamiento\\Mapper\\EstacionamientoMapper.cs",
+              "RelativeToolTip": "Mapper\\EstacionamientoMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:51:19.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Gabo\\Desktop\\Tp entrega final estacionamiento\\Mapper\\UsuarioMapper.cs",
+              "RelativeDocumentMoniker": "Mapper\\UsuarioMapper.cs",
+              "ToolTip": "C:\\Users\\Gabo\\Desktop\\Tp entrega final estacionamiento\\Mapper\\UsuarioMapper.cs",
+              "RelativeToolTip": "Mapper\\UsuarioMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T16:11:19.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuarioBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Gabo\\Desktop\\Tp entrega final estacionamiento\\BLL\\UsuarioBusiness.cs",
+              "RelativeDocumentMoniker": "BLL\\UsuarioBusiness.cs",
+              "ToolTip": "C:\\Users\\Gabo\\Desktop\\Tp entrega final estacionamiento\\BLL\\UsuarioBusiness.cs",
+              "RelativeToolTip": "BLL\\UsuarioBusiness.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:21:49.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EstacionamientoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Gabo\\Desktop\\Tp entrega final estacionamiento\\DAL\\EstacionamientoDAO.cs",
+              "RelativeDocumentMoniker": "DAL\\EstacionamientoDAO.cs",
+              "ToolTip": "C:\\Users\\Gabo\\Desktop\\Tp entrega final estacionamiento\\DAL\\EstacionamientoDAO.cs",
+              "RelativeToolTip": "DAL\\EstacionamientoDAO.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwHIAAACdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:12:36.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TicketDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Gabo\\Desktop\\Tp entrega final estacionamiento\\DAL\\TicketDAO.cs",
+              "RelativeDocumentMoniker": "DAL\\TicketDAO.cs",
+              "ToolTip": "C:\\Users\\Gabo\\Desktop\\Tp entrega final estacionamiento\\DAL\\TicketDAO.cs",
+              "RelativeToolTip": "DAL\\TicketDAO.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAAKkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:21:26.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TicketMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Gabo\\Desktop\\Tp entrega final estacionamiento\\Mapper\\TicketMapper.cs",
+              "RelativeDocumentMoniker": "Mapper\\TicketMapper.cs",
+              "ToolTip": "C:\\Users\\Gabo\\Desktop\\Tp entrega final estacionamiento\\Mapper\\TicketMapper.cs",
+              "RelativeToolTip": "Mapper\\TicketMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:55:48.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\Gabo\\Desktop\\Tp entrega final estacionamiento\\Entity\\Ticket.cs",
+              "RelativeDocumentMoniker": "Entity\\Ticket.cs",
+              "ToolTip": "C:\\Users\\Gabo\\Desktop\\Tp entrega final estacionamiento\\Entity\\Ticket.cs",
+              "RelativeToolTip": "Entity\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:24:09.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Estacionamiento.cs",
+              "DocumentMoniker": "C:\\Users\\Gabo\\Desktop\\Tp entrega final estacionamiento\\Entity\\Estacionamiento.cs",
+              "RelativeDocumentMoniker": "Entity\\Estacionamiento.cs",
+              "ToolTip": "C:\\Users\\Gabo\\Desktop\\Tp entrega final estacionamiento\\Entity\\Estacionamiento.cs",
+              "RelativeToolTip": "Entity\\Estacionamiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:27:48.726Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
